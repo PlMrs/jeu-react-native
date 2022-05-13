@@ -1,0 +1,22 @@
+{
+    "buzz": [{
+        "title": "Terre - Lune",
+        "question": "Quelle est la distance Terre - Lune?",
+        "answer" : "384 400 km"
+    },
+    {
+        "title": "Le rocher",
+        "question": "Quelle est l'âge de Dwayne Johnson",
+        "answer" : "50 ans"
+    }
+    ],
+    "timeOut": [{
+        "title": "Culture G",
+        "question": "En quelle année le président Américain John Fitzgerald Kennedy est-t-il mort?",
+        "answer" : "22 novembre 1963"
+    },{
+        "title": "Pas facile celle là",
+        "question": "Qu'est ce que le zinzolin?",
+        "answer" : "Une couleur"
+    }]
+}
